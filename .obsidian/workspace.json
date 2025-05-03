@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f3395dee24ea740a",
+        "id": "c75e093b4cd0ad12",
         "type": "tabs",
         "children": [
           {
-            "id": "e5e3fa11f34fde14",
+            "id": "52dd404761df3826",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Romantizmus.md",
+                "file": "obsidian-vault/Maturita/SLK/Periods/Antika.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Romantizmus"
+              "title": "Antika"
             }
           }
         ]
@@ -168,35 +168,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5e3fa11f34fde14",
+  "active": "52dd404761df3826",
   "lastOpenFiles": [
-    "obsidian-vault/Welcome.md",
-    "Romantizmus.md",
-    "obsidian-vault/Maturita/SLK/Literature Theory/Literarne Zanre.md",
-    "obsidian-vault/Maturita/SLK/Literature Theory/Slohove Postupy.md",
-    "obsidian-vault/Maturita/SLK/Exam Preparation/Otazky Odpovede.md",
-    "obsidian-vault/Maturita/SLK/Exam Preparation/Untitled.md",
-    "obsidian-vault/Maturita/SLK/Exam Preparation/Ukazky Textov.md",
-    "obsidian-vault/Maturita/SLK/Exam Preparation/Templates.md",
-    "obsidian-vault/Maturita/SLK/Practical Writing/Sprava Oznam.md",
-    "obsidian-vault/Maturita/SLK/Exam Preparation",
-    "obsidian-vault/Maturita/SLK/Practical Writing/Uradny List.md",
+    "obsidian-vault/Maturita/SLK/Timeline.md",
+    "obsidian-vault/Maturita/SLK/Periods/Antika.md",
     "Untitled.md",
-    "obsidian-vault/Maturita/SLK/Practical Writing/Zivotopis.md",
-    "obsidian-vault/Maturita/SLK/Text Structure/Logika Myslenia.md",
-    "obsidian-vault/Maturita/SLK/Practical Writing",
-    "obsidian-vault/Maturita/SLK/Text Structure/Vertikalne Cnenenie.md",
-    "obsidian-vault/Maturita/SLK/Language Communication/Vetna Stavba.md",
-    "obsidian-vault/Maturita/SLK/Text Structure",
-    "obsidian-vault/Maturita/SLK/Language Communication/Komunikacia.md",
-    "obsidian-vault/Maturita/SLK/Language Communication/Jazykove Styly.md",
-    "obsidian-vault/Maturita/SLK/Literature Theory/Analyza Diel.md",
-    "obsidian-vault/Maturita/SLK/Language Communication",
-    "obsidian-vault/Maturita/SLK/Literature Theory",
-    "Ján Kollár.md",
-    "Slovenským národným obrodením.md",
-    "obsidian-vault/Notes/Slovak/30-04-2025.md",
-    "obsidian-vault/Notes/Slovak/24-04-2025.md",
-    "obsidian-vault/Notes/Slovak/23-04-2025.md"
+    "obsidian-vault/Maturita/SLK/Authors/Sofokles.md",
+    "(výber).md",
+    "obsidian-vault/Maturita/SLK/Authors/Ján Smrek.md",
+    "obsidian-vault/Maturita/SLK/Authors/Jozef Cíger Hronský.md",
+    "obsidian-vault/Maturita/SLK/Authors/Janko Jesenský.md",
+    "obsidian-vault/Maturita/SLK/Literature/Antigona.md",
+    "obsidian-vault/Maturita/SLK/Literature/Vládca Oidipus.md",
+    "obsidian-vault/Maturita/SLK/Periods/Moderna a psychologický realizmus.md",
+    "obsidian-vault/Maturita/SLK/Literature/Ťapákovci.md",
+    "obsidian-vault/Maturita/SLK/Literature/Statky-zmätky.md",
+    "obsidian-vault/Maturita/SLK/Literature/Marína.md",
+    "obsidian-vault/Maturita/SLK/Literature/Maco Mlieč.md",
+    "obsidian-vault/Maturita/SLK/Literature/Kapitánova dcéra.md",
+    "obsidian-vault/Maturita/SLK/Authors/Jozef Mak.md",
+    "obsidian-vault/Maturita/SLK/Authors/Jozef Gregor Tajovský.md",
+    "obsidian-vault/Maturita/SLK/Literature/Keď báčik z Chochoľova umrie.md",
+    "obsidian-vault/Maturita/SLK/Authors/Július Satinský.md",
+    "obsidian-vault/Maturita/SLK/Authors/Jerome David Salinger.md",
+    "obsidian-vault/Maturita/SLK/Literature/Drak sa vracia.md",
+    "obsidian-vault/Maturita/SLK/Literature/Dom v stráni.md",
+    "obsidian-vault/Maturita/SLK/Authors/William Shakespeare.md",
+    "obsidian-vault/Maturita/SLK/Periods/Stredovek.md",
+    "obsidian-vault/Maturita/SLK/Periods/rom.md",
+    "obsidian-vault/Maturita/SLK/Periods",
+    "obsidian-vault/Maturita/SLK/Literature/Works",
+    "obsidian-vault/Maturita/SLK/Literature",
+    "obsidian-vault/Maturita/SLK/Literature/Works",
+    "Literature",
+    "obsidian-vault/Maturita/SLK/Grammar",
+    "obsidian-vault/Maturita/SLK/Literature",
+    "obsidian-vault/Maturita/SLK/Authors",
+    "obsidian-vault/Maturita/SLK/Exam Preparation",
+    "obsidian-vault/Maturita/SLK/Grammar/Practical Writing"
   ]
 }
