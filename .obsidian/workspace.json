@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c75e093b4cd0ad12",
+        "id": "c98aebcab25e82ca",
         "type": "tabs",
         "children": [
           {
-            "id": "52dd404761df3826",
+            "id": "444c1530089b9cbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-vault/Maturita/SLK/Periods/Antika.md",
+                "file": "obsidian-vault/Maturita/SLK/Timeline.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Antika"
+              "title": "Timeline"
             }
           }
         ]
@@ -168,34 +168,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52dd404761df3826",
+  "active": "444c1530089b9cbb",
   "lastOpenFiles": [
-    "obsidian-vault/Maturita/SLK/Timeline.md",
-    "obsidian-vault/Maturita/SLK/Periods/Antika.md",
-    "Untitled.md",
-    "obsidian-vault/Maturita/SLK/Authors/Sofokles.md",
-    "(výber).md",
-    "obsidian-vault/Maturita/SLK/Authors/Ján Smrek.md",
-    "obsidian-vault/Maturita/SLK/Authors/Jozef Cíger Hronský.md",
-    "obsidian-vault/Maturita/SLK/Authors/Janko Jesenský.md",
-    "obsidian-vault/Maturita/SLK/Literature/Antigona.md",
-    "obsidian-vault/Maturita/SLK/Literature/Vládca Oidipus.md",
-    "obsidian-vault/Maturita/SLK/Periods/Moderna a psychologický realizmus.md",
-    "obsidian-vault/Maturita/SLK/Literature/Ťapákovci.md",
-    "obsidian-vault/Maturita/SLK/Literature/Statky-zmätky.md",
-    "obsidian-vault/Maturita/SLK/Literature/Marína.md",
-    "obsidian-vault/Maturita/SLK/Literature/Maco Mlieč.md",
-    "obsidian-vault/Maturita/SLK/Literature/Kapitánova dcéra.md",
-    "obsidian-vault/Maturita/SLK/Authors/Jozef Mak.md",
-    "obsidian-vault/Maturita/SLK/Authors/Jozef Gregor Tajovský.md",
-    "obsidian-vault/Maturita/SLK/Literature/Keď báčik z Chochoľova umrie.md",
-    "obsidian-vault/Maturita/SLK/Authors/Július Satinský.md",
-    "obsidian-vault/Maturita/SLK/Authors/Jerome David Salinger.md",
-    "obsidian-vault/Maturita/SLK/Literature/Drak sa vracia.md",
-    "obsidian-vault/Maturita/SLK/Literature/Dom v stráni.md",
-    "obsidian-vault/Maturita/SLK/Authors/William Shakespeare.md",
-    "obsidian-vault/Maturita/SLK/Periods/Stredovek.md",
+    "obsidian-vault/Maturita/SLK/Periods/Humanizmus a renesancia.md",
     "obsidian-vault/Maturita/SLK/Periods/rom.md",
+    "obsidian-vault/Maturita/SLK/Periods/Barok.md",
+    "obsidian-vault/Maturita/SLK/Periods/Vitalizmus.md",
+    "obsidian-vault/Maturita/SLK/Periods/Symbolizmus.md",
+    "obsidian-vault/Maturita/SLK/Periods/Stredovek.md",
+    "obsidian-vault/Maturita/SLK/Periods/Slovenská poézia 20. storočia.md",
+    "obsidian-vault/Maturita/SLK/Periods/Romantizmus.md",
+    "obsidian-vault/Maturita/SLK/Periods/Antika.md",
+    "obsidian-vault/Maturita/SLK/Periods/Klasicizmus.md",
+    "obsidian-vault/Maturita/SLK/Periods/Medzivojnová a povojnová literatúra.md",
+    "obsidian-vault/Maturita/SLK/Periods/Moderna a psychologický realizmus.md",
+    "obsidian-vault/Maturita/SLK/Periods/Postmoderna.md",
+    "obsidian-vault/Maturita/SLK/Periods/Preromantizmus.md",
+    "obsidian-vault/Maturita/SLK/Periods/Realizmus.md",
+    "obsidian-vault/Maturita/SLK/Timeline.md",
+    "Klasicizmus (2. polovica 17. – 18. storočie).md",
+    "obsidian-vault/Maturita/SLK/Authors/Ján Smrek.md",
+    "obsidian-vault/Maturita/SLK/Literature/Mor ho!.md",
+    "obsidian-vault/Maturita/SLK/Authors/Samo Chalupka.md",
+    "obsidian-vault/Maturita/SLK/Authors/Ján Palárik.md",
+    "obsidian-vault/Maturita/SLK/Literature/Lakomec.md",
+    "obsidian-vault/Maturita/SLK/Authors/Molière.md",
+    "obsidian-vault/Maturita/SLK/Literature/Valaská škola.md",
+    "obsidian-vault/Maturita/SLK/Authors/Hugolín Gavlovič.md",
+    "obsidian-vault/Maturita/SLK/Literature/Hamlet.md",
     "obsidian-vault/Maturita/SLK/Periods",
     "obsidian-vault/Maturita/SLK/Literature/Works",
     "obsidian-vault/Maturita/SLK/Literature",

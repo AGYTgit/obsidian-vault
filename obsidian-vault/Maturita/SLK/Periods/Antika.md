@@ -1,3 +1,4 @@
+[[Timeline#Antika (8. st. p.k. – 5. st.)]]
 ## Základné znaky
 - vznik v starovekom Grécku a Ríme
 - dôraz na racionalitu, harmóniu, miernosť
@@ -21,7 +22,7 @@
 - **Homér** – *Ilias*, *Odysea*
 - **Sapfó** – lyrická poézia (milostná tematika)
 - **Anakreón** – básne o víne, láske a radosti
-- **Sofokles** – *Antigona*, *Oidipus*
+- **[[Sofokles]]** – [[Antigona]], [[Vládca Oidipus]]
 - **Aischylos** – *Oresteia*
 - **Euripides** – *Medea*
 - **Aristofanes** – *Lysistrata*

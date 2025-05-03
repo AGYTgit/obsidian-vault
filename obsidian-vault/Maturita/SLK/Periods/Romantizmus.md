@@ -1,3 +1,7 @@
+[[Timeline#Romantizmus (1. polovica 19. st.)]]
+
+---
+
 ## Definícia  
 - **Romantizmus** je literárny a umelecký smer, ktorý vznikol v **19. storočí** ako reakcia na klasicizmus a osvietenský rozum.  
 - Zdôrazňuje **cit, fantáziu, individualitu** a **útěk do minulosti, prírody alebo snov**.  

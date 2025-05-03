@@ -79,7 +79,7 @@
 - **[[Božena Slančíková Timrava]] – [[Ťapákovci]]**  
 - **[[Ján Palárik]] – [[Dobrodružstvo pri obžinkoch]]**
 
-⬇️ **Psychologizácia a vojnová skúsenosť → moderna**
+⬇️ **Psychologizácia a umelecká reakcia → moderna**
 
 ---
 
@@ -90,6 +90,17 @@
 - **[[Ivan Krasko]] – [[(výber)]]**  
 - **[[Jozef Cíger Hronský]] – [[Jozef Mak]]**  
 - **[[Dobroslav Chrobák]] – [[Drak sa vracia]]**
+
+⬇️ **Symbolická reakcia → symbolizmus**
+
+---
+
+## [[Symbolizmus]] (koniec 19. – zač. 20. st.)
+- dôraz na city, symboly, hudobnosť jazyka  
+- hľadanie krásy, tajomnosti, snov  
+- subjektívnosť, nepriame vyjadrenie pocitov  
+
+- **[[Ivan Krasko]] – [[(výber)]]**  
 
 ⬇️ **Reflexia vojny → medzivojnová a povojnová literatúra**
 
@@ -139,13 +150,3 @@
 
 - **[[Jerome David Salinger]] – [[Kto chytá v žite]]**  
 - **[[Dušan Dušek]] – [[Kufor na sny]]**
-
----
-
-## Vzťahy medzi obdobiami
-
-- **[[Romantizmus]]** reaguje na **[[klasicizmus]]**, presúva dôraz na city a národ  
-- **[[Realizmus]]** kritizuje idealizmus romantizmu a zobrazí spoločenskú realitu  
-- **[[Moderna a psychologický realizmus]]** prehlbujú analýzu vnútra postáv  
-- [[Medzivojnová a povojnová literatúra]] reflektuje historické traumy a spoločenské premeny  
-- **[[Postmoderna]]** mieša, analyzuje a ironizuje všetky predošlé smerovania
