@@ -4,22 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "c98aebcab25e82ca",
+        "id": "99fda4744bcb9bf5",
         "type": "tabs",
         "children": [
           {
-            "id": "444c1530089b9cbb",
+            "id": "55eb820be0bfb77e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-vault/Maturita/SLK/Timeline.md",
+                "file": "obsidian-vault/Maturita/SLK/Literature/Slávy dcéra.md",
                 "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Slávy dcéra"
+            },
+            "group": "c6445f1c5e0e26a9"
+          }
+        ]
+      },
+      {
+        "id": "12085f3cf41126c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a57972b00d639e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-vault/Maturita/SLK/Literature/Slávy dcéra.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Timeline"
-            }
+              "title": "Slávy dcéra"
+            },
+            "group": "c6445f1c5e0e26a9"
           }
         ]
       }
@@ -53,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#slohovy-postup",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,8 +190,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "444c1530089b9cbb",
+  "active": "55eb820be0bfb77e",
   "lastOpenFiles": [
+    "obsidian-vault/Maturita/SLK/Authors/Ján Kollár.md",
+    "obsidian-vault/Maturita/SLK/Timeline.md",
+    "obsidian-vault/Maturita/SLK/Literature/Slávy dcéra.md",
+    "obsidian-vault/Maturita/SLK/Periods/Preromantizmus.md",
+    "obsidian-vault/Maturita/SLK/Periods/Realizmus.md",
+    "obsidian-vault/Maturita/SLK/Literature/Ťapákovci.md",
+    "obsidian-vault/Maturita/SLK/Literature/Antigona.md",
+    "obsidian-vault/Maturita/SLK/Literature/Vládca Oidipus.md",
+    "obsidian-vault/Maturita/SLK/Authors/Sofokles.md",
+    "obsidian-vault/Maturita/SLK/Periods/Antika.md",
+    "Untitled 2.md",
+    "Untitled.md",
+    "obsidian-vault/Maturita/SLK/Authors/Molière.md",
+    "obsidian-vault/Maturita/SLK/Periods/Klasicizmus.md",
+    "Untitled 1.md",
+    "Slávy dcera.md",
+    "obsidian-vault/Maturita/SLK/Periods/Romantizmus.md",
+    "obsidian-vault/Maturita/SLK/Periods/Postmoderna.md",
     "obsidian-vault/Maturita/SLK/Periods/Humanizmus a renesancia.md",
     "obsidian-vault/Maturita/SLK/Periods/rom.md",
     "obsidian-vault/Maturita/SLK/Periods/Barok.md",
@@ -177,25 +217,7 @@
     "obsidian-vault/Maturita/SLK/Periods/Symbolizmus.md",
     "obsidian-vault/Maturita/SLK/Periods/Stredovek.md",
     "obsidian-vault/Maturita/SLK/Periods/Slovenská poézia 20. storočia.md",
-    "obsidian-vault/Maturita/SLK/Periods/Romantizmus.md",
-    "obsidian-vault/Maturita/SLK/Periods/Antika.md",
-    "obsidian-vault/Maturita/SLK/Periods/Klasicizmus.md",
     "obsidian-vault/Maturita/SLK/Periods/Medzivojnová a povojnová literatúra.md",
-    "obsidian-vault/Maturita/SLK/Periods/Moderna a psychologický realizmus.md",
-    "obsidian-vault/Maturita/SLK/Periods/Postmoderna.md",
-    "obsidian-vault/Maturita/SLK/Periods/Preromantizmus.md",
-    "obsidian-vault/Maturita/SLK/Periods/Realizmus.md",
-    "obsidian-vault/Maturita/SLK/Timeline.md",
-    "Klasicizmus (2. polovica 17. – 18. storočie).md",
-    "obsidian-vault/Maturita/SLK/Authors/Ján Smrek.md",
-    "obsidian-vault/Maturita/SLK/Literature/Mor ho!.md",
-    "obsidian-vault/Maturita/SLK/Authors/Samo Chalupka.md",
-    "obsidian-vault/Maturita/SLK/Authors/Ján Palárik.md",
-    "obsidian-vault/Maturita/SLK/Literature/Lakomec.md",
-    "obsidian-vault/Maturita/SLK/Authors/Molière.md",
-    "obsidian-vault/Maturita/SLK/Literature/Valaská škola.md",
-    "obsidian-vault/Maturita/SLK/Authors/Hugolín Gavlovič.md",
-    "obsidian-vault/Maturita/SLK/Literature/Hamlet.md",
     "obsidian-vault/Maturita/SLK/Periods",
     "obsidian-vault/Maturita/SLK/Literature/Works",
     "obsidian-vault/Maturita/SLK/Literature",
