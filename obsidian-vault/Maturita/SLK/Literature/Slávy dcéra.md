@@ -1,13 +1,16 @@
 [[Timeline#Preromantizmus (kon. 18. - zač. 19. st.)]]
+[Dej](https://youtu.be/gqVshH6DB2s?t=348)
 
 ---
 
 ## Základné informácie
 - **Žáner**: lyricko-epická básnická skladba
 - **Autor**: [[Ján Kollár]]
-- **Obdobie**: [[Preromantizmus]]
+- **Obdobie**: [[Klasicizmus]] - [[Preromantizmus]]
+	- Forma: *Klasicistická*
+	- Téma: *Preromantická*
 - **Jazyk**: *čeština*
-- **Forma**: sonetový veniec – najskôr *150 sonetov*, neskôr rozšírené na *615 sonetov*
+- **Forma**: sonetový veniec – najskôr *150 sonetov*, neskôr rozšírené na *615 sonetov* ([[Sonet]], [[Sylabotónický verš]], [[Elegické Distichon]])
 - **Rok vydania prvej verzie**: 1824
 - **Inšpirácia**: osobná láska ku *Friderike Schmidtovej* (Mína), ktorá sa mení na *lásku k Slovanstvu*
 
@@ -21,11 +24,11 @@
 
 - **II. *Labe*, *Rén*, *Vltava*** – Putovanie po českých krajoch. Láska pretrváva, no objavuje sa smútok a kritika pasivity vlastného národa.
 
-- **III. *Dunaj*** – Spomienky na šťastnú mladosť na Slovensku. Vyjadruje žiaľ a túžbu po zabudnutí.
+- **III. *Dunaj*** – Spomienky na šťastnú mladosť na Slovensku. Vyjadruje žiaľ a túžbu po zabudnutí, odkazujúce na osud Slovanstva.
 
-- **IV. *Lethe*** – Symbolické miesto zabudnutia, odkazujúce na osud Slovanstva.
+- **IV. *Lethe*** – Mína ako víla sprevádza básnika po slovanskom nebi.
 
-- **V. *Acheron*** – Mína ako víla sprevádza básnika po slovanskom nebi a pekle.
+- **V. *Acheron*** –  Dostáva sa do slovanského pekla.
 
 ---
 

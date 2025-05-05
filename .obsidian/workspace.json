@@ -4,46 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "99fda4744bcb9bf5",
+        "id": "ab481dad82f4f688",
         "type": "tabs",
         "children": [
           {
-            "id": "55eb820be0bfb77e",
+            "id": "55431448d8ded7e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-vault/Maturita/SLK/Periods/Romantizmus.md",
+                "file": "obsidian-vault/Maturita/SLK/Literature/Smrť Jánošíkova.md",
                 "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Romantizmus"
-            },
-            "group": "349bf0a9128614fc"
-          }
-        ]
-      },
-      {
-        "id": "cd19e922713c6750",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e6d76dae3facbf8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-vault/Maturita/SLK/Periods/Romantizmus.md",
-                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Romantizmus"
-            },
-            "group": "349bf0a9128614fc"
+              "title": "Smrť Jánošíkova"
+            }
+          },
+          {
+            "id": "c09d7a745700eaf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-vault/Maturita/SLK/Timeline.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Timeline"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,34 +183,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55eb820be0bfb77e",
+  "active": "c09d7a745700eaf1",
   "lastOpenFiles": [
+    "obsidian-vault/Maturita/SLK/Periods/Antika.md",
     "obsidian-vault/Maturita/SLK/Timeline.md",
+    "obsidian-vault/Maturita/SLK/Literature/Slávy dcéra.md",
+    "obsidian-vault/Maturita/SLK/Literature/Smrť Jánošíkova.md",
+    "obsidian-vault/Maturita/SLK/Grammar/Vetné členy.md",
+    "obsidian-vault/Maturita/SLK/Grammar/Sonet.md",
+    "obsidian-vault/Maturita/SLK/Grammar/Jazykové roviny.md",
+    "obsidian-vault/Maturita/SLK/Grammar/Elegické Distichon.md",
+    "obsidian-vault/Maturita/SLK/Grammar/Sylabotónický verš.md",
     "obsidian-vault/Maturita/SLK/Periods/Romantizmus.md",
     "obsidian-vault/Maturita/SLK/Periods/Realizmus.md",
-    "obsidian-vault/Maturita/SLK/Authors/Ján Kollár.md",
-    "obsidian-vault/Maturita/SLK/Periods/Preromantizmus.md",
-    "obsidian-vault/Maturita/SLK/Literature/Slávy dcéra.md",
-    "Janko Kráľ.md",
-    "obsidian-vault/Maturita/SLK/Authors/Samo Chalupka.md",
-    "obsidian-vault/Maturita/SLK/Authors/Andrej Sládkovič.md",
-    "obsidian-vault/Maturita/SLK/Literature/Ťapákovci.md",
-    "obsidian-vault/Maturita/SLK/Literature/Antigona.md",
-    "obsidian-vault/Maturita/SLK/Literature/Vládca Oidipus.md",
-    "obsidian-vault/Maturita/SLK/Authors/Sofokles.md",
-    "obsidian-vault/Maturita/SLK/Periods/Antika.md",
-    "Untitled 2.md",
-    "Untitled.md",
-    "obsidian-vault/Maturita/SLK/Authors/Molière.md",
-    "obsidian-vault/Maturita/SLK/Periods/Klasicizmus.md",
+    "obsidian-vault/Maturita/SLK/Literature/Maco Mlieč.md",
+    "Untitled.canvas",
+    "Fonéma.md",
+    "[Jazykové roviny.md",
     "Untitled 1.md",
-    "Slávy dcera.md",
-    "obsidian-vault/Maturita/SLK/Periods/Postmoderna.md",
-    "obsidian-vault/Maturita/SLK/Periods/Humanizmus a renesancia.md",
-    "obsidian-vault/Maturita/SLK/Periods/rom.md",
-    "obsidian-vault/Maturita/SLK/Periods/Barok.md",
-    "obsidian-vault/Maturita/SLK/Periods/Vitalizmus.md",
-    "obsidian-vault/Maturita/SLK/Periods/Symbolizmus.md",
+    "obsidian-vault/Maturita/SLK/Grammar/Language Communication/Vetna Stavba.md",
+    "obsidian-vault/Maturita/SLK/Grammar/Language Communication/Komunikacia.md",
+    "obsidian-vault/Maturita/SLK/Grammar/Language Communication/Jazykove Styly.md",
+    "obsidian-vault/Maturita/SLK/Grammar/Practical Writing/Zivotopis.md",
+    "obsidian-vault/Maturita/SLK/Grammar/Practical Writing/Uradny List.md",
+    "obsidian-vault/Maturita/SLK/Grammar/Practical Writing/Sprava Oznam.md",
+    "obsidian-vault/Maturita/SLK/Literature/Marína.md",
+    "obsidian-vault/Maturita/SLK/Authors/Andrej Sládkovič.md",
+    "obsidian-vault/Maturita/SLK/Periods/Preromantizmus.md",
+    "obsidian-vault/Maturita/SLK/Literature/Ťapákovci.md",
+    "Časomiera.md",
     "obsidian-vault/Maturita/SLK/Periods",
     "obsidian-vault/Maturita/SLK/Literature/Works",
     "obsidian-vault/Maturita/SLK/Literature",

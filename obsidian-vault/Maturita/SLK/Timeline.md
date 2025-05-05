@@ -45,6 +45,7 @@
 - dramatické jednoty, formálna presnosť
 
 - **[[Molière]] – [[Lakomec]]**
+- **[[Ján Kollár]] – [[Slávy dcéra]]**
 
 ⬇️ **Odmietnutie racionalizmu → preromantizmus**
 

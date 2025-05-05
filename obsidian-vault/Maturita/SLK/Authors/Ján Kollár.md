@@ -1,4 +1,5 @@
 [[Timeline#Preromantizmus (kon. 18. - zač. 19. st.)]]
+https://www.youtube.com/watch?v=gqVshH6DB2s
 
 ---
 
@@ -19,6 +20,7 @@
 
 ## Literárna tvorba
 
+- Zbierka *Básne*
 - [[Slávy dcéra]]
 
 ---
