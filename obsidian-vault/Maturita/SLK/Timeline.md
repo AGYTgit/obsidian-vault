@@ -124,10 +124,10 @@
 - vojnové a spoločenské traumy, etické otázky
 - politická kritika, psychologizmus, absurdita
 
-- **[[Erich Maria Remarque]] – [[Na západe nič nového]]**
+- **[[Erich Maria Remarque]] – [[Na západe nič nového]]** --
 - **[[Albín Bednár]] – [[Kolíska]]**
 - **[[Ladislav Mňačko]] – [[Ako chutí moc]]**
-- **[[Ivan Bukovčan]] – [[Kým kohút nezaspieva]]**
+- **[[Ivan Bukovčan]] – [[Kým kohút nezaspieva]]** --
 - **[[Milan Lasica]] – [[Július Satinský]] – [[Soirée]]**
 
 ⬇️ **Experimenty, subjektívnosť → postmoderna**

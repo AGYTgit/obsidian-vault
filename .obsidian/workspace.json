@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55431448d8ded7e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-vault/Maturita/SLK/Literature/Smrť Jánošíkova.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Smrť Jánošíkova"
-            }
-          },
-          {
-            "id": "c09d7a745700eaf1",
+            "id": "644c80db5da4f64e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "obsidian-vault/Maturita/SLK/Timeline.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Timeline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,10 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c09d7a745700eaf1",
+  "active": "644c80db5da4f64e",
   "lastOpenFiles": [
-    "obsidian-vault/Maturita/SLK/Periods/Antika.md",
+    "obsidian-vault/Notes/SLK/6-5-2025.md",
     "obsidian-vault/Maturita/SLK/Timeline.md",
+    "Fonéma.md",
+    "obsidian-vault/Maturita/SLK/Periods/Antika.md",
     "obsidian-vault/Maturita/SLK/Literature/Slávy dcéra.md",
     "obsidian-vault/Maturita/SLK/Literature/Smrť Jánošíkova.md",
     "obsidian-vault/Maturita/SLK/Grammar/Vetné členy.md",
@@ -198,7 +185,6 @@
     "obsidian-vault/Maturita/SLK/Periods/Realizmus.md",
     "obsidian-vault/Maturita/SLK/Literature/Maco Mlieč.md",
     "Untitled.canvas",
-    "Fonéma.md",
     "[Jazykové roviny.md",
     "Untitled 1.md",
     "obsidian-vault/Maturita/SLK/Grammar/Language Communication/Vetna Stavba.md",
@@ -211,7 +197,6 @@
     "obsidian-vault/Maturita/SLK/Authors/Andrej Sládkovič.md",
     "obsidian-vault/Maturita/SLK/Periods/Preromantizmus.md",
     "obsidian-vault/Maturita/SLK/Literature/Ťapákovci.md",
-    "Časomiera.md",
     "obsidian-vault/Maturita/SLK/Periods",
     "obsidian-vault/Maturita/SLK/Literature/Works",
     "obsidian-vault/Maturita/SLK/Literature",

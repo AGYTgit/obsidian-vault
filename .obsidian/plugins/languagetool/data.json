@@ -9,7 +9,10 @@
     "ca": "ca-ES",
     "sk": "sk"
   },
-  "dictionary": [],
+  "dictionary": [
+    "klasickeho",
+    "rozpravania"
+  ],
   "syncDictionary": false,
   "remoteDictionary": [],
   "pickyMode": false,
