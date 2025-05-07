@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ab481dad82f4f688",
+        "id": "5440f20622a6229d",
         "type": "tabs",
         "children": [
           {
-            "id": "644c80db5da4f64e",
+            "id": "4f3dbdc4fea39bc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-vault/Maturita/SLK/Timeline.md",
-                "mode": "source",
+                "file": "Maturita/SLK/Questions/Questions/30.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Timeline"
+              "title": "30"
             }
           }
         ]
@@ -168,44 +168,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "644c80db5da4f64e",
+  "active": "4f3dbdc4fea39bc7",
   "lastOpenFiles": [
-    "obsidian-vault/Notes/SLK/6-5-2025.md",
-    "obsidian-vault/Maturita/SLK/Timeline.md",
-    "Fonéma.md",
-    "obsidian-vault/Maturita/SLK/Periods/Antika.md",
-    "obsidian-vault/Maturita/SLK/Literature/Slávy dcéra.md",
-    "obsidian-vault/Maturita/SLK/Literature/Smrť Jánošíkova.md",
-    "obsidian-vault/Maturita/SLK/Grammar/Vetné členy.md",
-    "obsidian-vault/Maturita/SLK/Grammar/Sonet.md",
-    "obsidian-vault/Maturita/SLK/Grammar/Jazykové roviny.md",
-    "obsidian-vault/Maturita/SLK/Grammar/Elegické Distichon.md",
-    "obsidian-vault/Maturita/SLK/Grammar/Sylabotónický verš.md",
-    "obsidian-vault/Maturita/SLK/Periods/Romantizmus.md",
-    "obsidian-vault/Maturita/SLK/Periods/Realizmus.md",
-    "obsidian-vault/Maturita/SLK/Literature/Maco Mlieč.md",
+    "Maturita/SLK/Questions/List.md",
+    "Maturita/SLK/Questions/Questions/1.md",
+    "Maturita/SLK/Questions/Answers/25A.md",
+    "Maturita/SLK/Questions/Answers/2A.md",
+    "Maturita/SLK/Questions/Answers/1A.md",
+    "Maturita/SLK/Questions/Questions/25.md",
+    "Maturita/SLK/Questions/Answers/24A.md",
+    "Maturita/SLK/Questions/Answers/23A.md",
+    "Maturita/SLK/Questions/Answers/22A.md",
+    "Maturita/SLK/Questions/Questions/22.md",
+    "Maturita/SLK/Questions/Questions/21.md",
+    "Maturita/SLK/Questions/Questions/20.md",
+    "Maturita/SLK/Questions/Answers/21A.md",
+    "Maturita/SLK/Questions/Answers/20A.md",
+    "Maturita/SLK/Questions/Answers/19A.md",
+    "Maturita/SLK/Questions/Answers/18A.md",
+    "Maturita/SLK/Questions/Answers/17A.md",
+    "Maturita/SLK/Questions/Answers/16A.md",
+    "Maturita/SLK/Questions/Answers/15A.md",
+    "Maturita/SLK/Questions/Answers/14A.md",
+    "Maturita/SLK/Questions/Answers/13A.md",
+    "Maturita/SLK/Questions/Questions/13.md",
+    "Maturita/SLK/Questions/Answers/12A.md",
+    "Maturita/SLK/Questions/Answers/11A.md",
+    "Maturita/SLK/Questions/Answers/10A.md",
+    "Maturita/SLK/Questions/Answers/9A.md",
+    "mat",
+    "Maturita/SLK/Questions/Answers",
+    "Maturita/SLK/Questions/Questions",
+    "Maturita/SLK/Questions",
     "Untitled.canvas",
-    "[Jazykové roviny.md",
-    "Untitled 1.md",
-    "obsidian-vault/Maturita/SLK/Grammar/Language Communication/Vetna Stavba.md",
-    "obsidian-vault/Maturita/SLK/Grammar/Language Communication/Komunikacia.md",
-    "obsidian-vault/Maturita/SLK/Grammar/Language Communication/Jazykove Styly.md",
-    "obsidian-vault/Maturita/SLK/Grammar/Practical Writing/Zivotopis.md",
-    "obsidian-vault/Maturita/SLK/Grammar/Practical Writing/Uradny List.md",
-    "obsidian-vault/Maturita/SLK/Grammar/Practical Writing/Sprava Oznam.md",
-    "obsidian-vault/Maturita/SLK/Literature/Marína.md",
-    "obsidian-vault/Maturita/SLK/Authors/Andrej Sládkovič.md",
-    "obsidian-vault/Maturita/SLK/Periods/Preromantizmus.md",
-    "obsidian-vault/Maturita/SLK/Literature/Ťapákovci.md",
     "obsidian-vault/Maturita/SLK/Periods",
     "obsidian-vault/Maturita/SLK/Literature/Works",
     "obsidian-vault/Maturita/SLK/Literature",
     "obsidian-vault/Maturita/SLK/Literature/Works",
     "Literature",
-    "obsidian-vault/Maturita/SLK/Grammar",
-    "obsidian-vault/Maturita/SLK/Literature",
-    "obsidian-vault/Maturita/SLK/Authors",
-    "obsidian-vault/Maturita/SLK/Exam Preparation",
-    "obsidian-vault/Maturita/SLK/Grammar/Practical Writing"
+    "obsidian-vault/Maturita/SLK/Grammar"
   ]
 }

@@ -34,7 +34,7 @@
 - náboženské témy, emocionalita, márnosť sveta
 - kontrasty, symbolika, moralizovanie
 
-- **[[Hugolín Gavlovič]] – [[Valaská škola]]**
+- **[[Hugolín Gavlovič]] – [[Valaská škola mravúv stodola]]**
 
 ⬇️ **Racionalizácia → klasicizmus**
 
