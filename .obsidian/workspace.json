@@ -25,10 +25,12 @@
             "id": "056fa05f16d88653",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "pdf",
+              "state": {
+                "file": "other docs/eng.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "eng"
             }
           }
         ],
@@ -181,6 +183,11 @@
   },
   "active": "056fa05f16d88653",
   "lastOpenFiles": [
+    "other docs/sjl.pdf",
+    "other docs/eng.pdf",
+    "other docs/Maturitné-zadania-1-30.docx",
+    "other docs/UMS_IST_2024_2025-klasika-1.docx",
+    "other docs",
     "Maturita/Professional/Server/Serverové technológie - Microsoft Windows Server, IBM AIX.md",
     "Maturita/SLK/Questions/List.md",
     "Maturita/SLK/Timeline.md",
@@ -209,15 +216,10 @@
     "Maturita/SLK/Questions/Questions/3.md",
     "Maturita/SLK/Questions/Maturitne-zadania-1-30.md",
     "Maturita/SLK/Questions/Answers/3A.md",
-    "Maturitne-zadania-1-30 copy.md",
     "vertopal_94d727a0378e4d5f8a6ca850fbff38d9/media/image1.png",
     "vertopal_94d727a0378e4d5f8a6ca850fbff38d9/media",
     "94d727a0378e4d5f8a6ca850fbff38d9.markdown",
     "vertopal_94d727a0378e4d5f8a6ca850fbff38d9",
-    "vertopal.com_Maturitné-zadania-1-30.zip",
-    "mat",
-    "Maturita/SLK/Questions/Answers",
-    "Maturita/SLK/Questions/Questions",
     "Untitled.canvas"
   ]
 }
