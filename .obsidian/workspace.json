@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "1"
             }
-          },
-          {
-            "id": "056fa05f16d88653",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "other docs/eng.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "eng"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,18 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "056fa05f16d88653",
+  "active": "3e80d76e95fd7d0d",
   "lastOpenFiles": [
-    "other docs/sjl.pdf",
+    "Maturita/Professional/Server/Serverové technológie - Microsoft Windows Server, IBM AIX.md",
+    "Maturita/Professional/Server/Serverové technológie - Súborové systémy.md",
     "other docs/eng.pdf",
+    "other docs/sjl.pdf",
     "other docs/Maturitné-zadania-1-30.docx",
     "other docs/UMS_IST_2024_2025-klasika-1.docx",
     "other docs",
-    "Maturita/Professional/Server/Serverové technológie - Microsoft Windows Server, IBM AIX.md",
     "Maturita/SLK/Questions/List.md",
     "Maturita/SLK/Timeline.md",
     "Maturita/SLK/source backup.md",
-    "Maturita/Professional/Server/Serverové technológie - Súborové systémy.md",
     "Maturita/SLK/Questions/Questions/1.md",
     "Maturita/Professional/Server",
     "Untitled 1",
@@ -219,7 +206,6 @@
     "vertopal_94d727a0378e4d5f8a6ca850fbff38d9/media/image1.png",
     "vertopal_94d727a0378e4d5f8a6ca850fbff38d9/media",
     "94d727a0378e4d5f8a6ca850fbff38d9.markdown",
-    "vertopal_94d727a0378e4d5f8a6ca850fbff38d9",
     "Untitled.canvas"
   ]
 }
