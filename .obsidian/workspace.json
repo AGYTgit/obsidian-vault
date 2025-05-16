@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b2b8f2fa399c9f0",
+            "id": "947da70bd2ddfc2a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Zoznam tematických zadaní SJL.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Zoznam tematických zadaní SJL"
             }
           }
         ]
@@ -164,16 +168,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b2b8f2fa399c9f0",
+  "active": "947da70bd2ddfc2a",
   "lastOpenFiles": [
+    "p2-5-6.md",
+    "Zoznam tematických zadaní SJL.md",
+    "p5-6.md",
+    "p4-3.md",
+    "p3.md",
+    "p6.md",
+    "Maturita/SLK/Timeline.md",
     "q15.md",
-    "Untitled.md",
     "Untitled/Jazykovedy.md",
     "Untitled/Vetnočlenská platnosť.md",
     "Untitled/Slovesá.md",
     "Untitled/Gramatické kategórie.md",
     "Untitled/Číslovky.md",
-    "Maturita/SLK/Timeline.md",
     "Maturita/SLK/Periods/Romantizmus.md",
     "Maturita/SLK/Grammar/Vetné členy.md",
     "Maturita/SLK/Grammar/Jazykové roviny.md",
@@ -196,11 +205,6 @@
     "Maturita/SLK/Questions/Questions/30.md",
     "Maturita/SLK/Questions/Answers/30A.md",
     "Maturita/SLK/Questions/Questions/12.md",
-    "Maturita/SLK/Questions/Answers/12A.md",
-    "Maturita/SLK/Questions/Questions/26.md",
-    "Maturita/SLK/Questions/Answers/26A.md",
-    "Maturita/SLK/Questions/Questions/27.md",
-    "Maturita/SLK/Questions/Answers/27A.md",
     "vertopal_94d727a0378e4d5f8a6ca850fbff38d9/media/image1.png",
     "vertopal_94d727a0378e4d5f8a6ca850fbff38d9/media",
     "Untitled.canvas"
