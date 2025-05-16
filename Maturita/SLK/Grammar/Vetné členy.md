@@ -23,7 +23,7 @@
 		- Forma: Podstatné meno v dátive alebo akuzatíve.
 
 	- **Príslovkové určenie**
-		- Upresňuje čas, miesto, spôsob, príčinu atď.
+		- Upresňuje čas, miesto, spôsob, príčinu, mieru, prostriedok atď.
 		- Odpovedá na otázky *„Kde? Kedy? Prečo? Ako?“*
 		- Príklad: Dievča číta ***pomaly*** (spôsob).
 		- Forma: Príslovka, podstatné meno s predložkou.

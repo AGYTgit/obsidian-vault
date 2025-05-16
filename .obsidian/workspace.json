@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e80d76e95fd7d0d",
+            "id": "1b2b8f2fa399c9f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maturita/SLK/Questions/Questions/1.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1"
+              "title": "New tab"
             }
           }
         ]
@@ -168,8 +164,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e80d76e95fd7d0d",
+  "active": "1b2b8f2fa399c9f0",
   "lastOpenFiles": [
+    "q15.md",
+    "Untitled.md",
+    "Untitled/Jazykovedy.md",
+    "Untitled/Vetnočlenská platnosť.md",
+    "Untitled/Slovesá.md",
+    "Untitled/Gramatické kategórie.md",
+    "Untitled/Číslovky.md",
+    "Maturita/SLK/Timeline.md",
+    "Maturita/SLK/Periods/Romantizmus.md",
+    "Maturita/SLK/Grammar/Vetné členy.md",
+    "Maturita/SLK/Grammar/Jazykové roviny.md",
+    "Maturita/SLK/Questions/Questions/1.md",
+    "Untitled",
     "Maturita/Professional/Server/Serverové technológie - Microsoft Windows Server, IBM AIX.md",
     "Maturita/Professional/Server/Serverové technológie - Súborové systémy.md",
     "other docs/eng.pdf",
@@ -178,9 +187,7 @@
     "other docs/UMS_IST_2024_2025-klasika-1.docx",
     "other docs",
     "Maturita/SLK/Questions/List.md",
-    "Maturita/SLK/Timeline.md",
     "Maturita/SLK/source backup.md",
-    "Maturita/SLK/Questions/Questions/1.md",
     "Maturita/Professional/Server",
     "Untitled 1",
     "Maturita/Professional",
@@ -194,18 +201,8 @@
     "Maturita/SLK/Questions/Answers/26A.md",
     "Maturita/SLK/Questions/Questions/27.md",
     "Maturita/SLK/Questions/Answers/27A.md",
-    "Maturita/SLK/Questions/Questions/28.md",
-    "Maturita/SLK/Questions/Answers/28A.md",
-    "Maturita/SLK/Questions/Questions/29.md",
-    "Maturita/SLK/Questions/Answers/29A.md",
-    "Maturita/SLK/Questions/Answers/29A 1.md",
-    "Maturita/SLK/Questions/Questions/15.md",
-    "Maturita/SLK/Questions/Questions/3.md",
-    "Maturita/SLK/Questions/Maturitne-zadania-1-30.md",
-    "Maturita/SLK/Questions/Answers/3A.md",
     "vertopal_94d727a0378e4d5f8a6ca850fbff38d9/media/image1.png",
     "vertopal_94d727a0378e4d5f8a6ca850fbff38d9/media",
-    "94d727a0378e4d5f8a6ca850fbff38d9.markdown",
     "Untitled.canvas"
   ]
 }
