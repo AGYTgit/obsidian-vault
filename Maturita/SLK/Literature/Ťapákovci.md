@@ -1,1 +1,0 @@
-[dej](https://www.youtube.com/watch?v=Szm3GpCNlpI)

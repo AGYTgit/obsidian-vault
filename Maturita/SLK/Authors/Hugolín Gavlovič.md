@@ -1,1 +1,0 @@
-Valaská škola

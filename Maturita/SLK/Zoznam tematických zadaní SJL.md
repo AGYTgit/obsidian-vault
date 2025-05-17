@@ -1,22 +1,25 @@
+
+---
+
 # 1
-## Literatúra
+## Literatúra - [[1A#Literatúra]]
 
 * Epická poézia, rytmus, metafora, prirovnanie, anafora, sylabický veršový systém
 * Tvorba Hugolína Gavloviča
 
-## Gramatika
+## Gramatika - [[1A#Gramatika]]
 
 * Gramatická kategória, menné gramatické kategórie
 * Vetnočlenská platnosť podstatných mien
 
 ---
 # 2
-## Literatúra
+## Literatúra - [[2A#Literatúra]]
 
 * Samo Chalupka: Mor ho!, Ján Botto: Smrť Jánošíkova, Karel Hynek Mácha: Máj
 * Pojmy: nadpis, verš, strofa, spev
 
-## Gramatika
+## Gramatika - [[2A#Gramatika]]
 
 * Číslovky
 * Vetnočlenská platnosť čísloviek a slovies
@@ -24,57 +27,57 @@
 
 ---
 # 3
-## Literatúra
+## Literatúra - [[3A#Literatúra]]
 
 * Andrej Sládkovič: Detvan
 * Janko Kráľ - Zakliata panna vo Váhu a divný Janko
 
-## Gramatika
+## Gramatika - [[3A#Gramatika]]
 
 * Opis
 
 ---
 # 4
-## Literatúra
+## Literatúra - [[4A#Literatúra]]
 
 * Sofokles: Antigona
 
-## Gramatika
+## Gramatika - [[4A#Gramatika]]
 
 * Jazyk a reč, funkcie jazyka
 
 ---
 # 5
-## Literatúra
+## Literatúra - [[5A#Literatúra]]
 
 * Vznik a vývin drámy, kompozícia drámy, herec, režisér, dramaturg, inscenácia
 * Ivan Stodola: Bačova žena
 
-## Gramatika
+## Gramatika - [[5A#Gramatika]]
 
 * Syntax - vetné členy, sklady, rozdelenie viet
 
 ---
 # 6
-## Literatúra
+## Literatúra - [[6A#Literatúra]]
 
 * Moderna a avantgarda v slovenskej medzivojnovej literatúre
 * Margita Figuli: Tri gaštanové kone
 * Znaky prózy literatúry naturizmu
 
-## Gramatika
+## Gramatika - [[6A#Gramatika]]
 
 * Nadvetná/textová syntax, horizontálne a vertikálne členenie textu
 * Odchýlky od vetnej stavby, polovetné konštrukcie
 
 ---
 # 7
-## Literatúra
+## Literatúra - [[7A#Literatúra]]
 
 * Socialistický realizmus v slovenskej literatúre
 * Alfonz Bednár: Koliska
 
-## Gramatika
+## Gramatika - [[7A#Gramatika]]
 
 * Slohové postupy, výkladový slohový postup, výklad
 * Kauzálne vzťahy
@@ -82,36 +85,36 @@
 
 ---
 # 8
-## Literatúra
+## Literatúra - [[8A#Literatúra]]
 
 * P. O. Hviezdoslav: Hájnikova žena, Ežo Vlkolinský
 
-## Gramatika
+## Gramatika - [[8A#Gramatika]]
 
 * Druhy výkladových textov
 * Logicko-myšlienkové operácie
 
 ---
 # 9
-## Literatúra
+## Literatúra - [[9A#Literatúra]]
 
 * Krátka epická próza, rozprávač, literárna postava
 * J. G. Tajovský: Maco Mlieč
 * M. Kukučín: Keď báčik z Chochoľova umrie
 
-## Gramatika
+## Gramatika - [[9A#Gramatika]]
 
 * Norma, kodifikácia, formy národného jazyka
 * Vývin spisovnej slovenčiny
 
 ---
 # 10
-## Literatúra
+## Literatúra - [[10A#Literatúra]]
 
 * Epická próza; epický čas, téma, kompozičný postup
 * B. S. Timrava: Ťapákovci
 
-## Gramatika
+## Gramatika - [[10A#Gramatika]]
 
 * Jazykoveda, jazykové roviny
 * Významová/lexikálna rovina jazyka
@@ -120,7 +123,7 @@
 
 ---
 # 11
-## Literatúra
+## Literatúra - [[11A#Literatúra]]
 
 * Romantická literatúra, znaky a predstavitelia svetovej romantickej literatúry a ich diela
 * Victor Hugo: Chrám Matky Božej v Paríži
@@ -129,35 +132,42 @@
 * Slovníky
 * Členenie slovnej zásoby
 
+## Gramatika - [[11A#Gramatika]]
+
+* Lexikológia, slovo, slovná zásoba
+* Lexikálny a gramatický význam slova
+* Slovníky
+* Členenie slovnej zásoby
+
 ---
 # 12
-## Literatúra
+## Literatúra - [[12A#Literatúra]]
 
 * Jozef Cíger Hronský: Jozef Mak
 
-## Gramatika
+## Gramatika - [[12A#Gramatika]]
 
 * Štýl, štýlotvorné činitele, funkčné jazykové štýly
 * Slohové postupy a útvary
 
 ---
 # 13
-## Literatúra
+## Literatúra - [[13A#Literatúra]]
 
 * J. D. Salinger: Kto chytá v žite
 
-## Gramatika
+## Gramatika - [[13A#Gramatika]]
 
 * Komunikácia
 
 ---
 # 14
-## Literatúra
+## Literatúra - [[14A#Literatúra]]
 
 * Voľný verš, rytmicko-syntaktický paralelizmus, populárna pieseň
 * Životopis a tvorba Milana Rúfusa a Miroslava Válka
 
-## Gramatika
+## Gramatika - [[14A#Gramatika]]
 
 * Lexikológia
 * Jednoslovné a viacslovné pomenovania, združené pomenovania, univerbizácia a multiverbizácia
@@ -166,12 +176,12 @@
 
 ---
 # 15
-## Literatúra
+## Literatúra - [[15A#Literatúra]]
 
 * Kompozičné postupy v epickej literatúre
 * Ladislav Mňačko: Ako chutí moc
 
-## Gramatika
+## Gramatika - [[15A#Gramatika]]
 
 * Úradný a súkromný list
 * Jazykové štýly písomnosti
@@ -179,12 +189,12 @@
 
 ---
 # 16
-## Literatúra
+## Literatúra - [[16A#Literatúra]]
 
 * Idea slovanskej vzájomnosti
 * Ján Kollár: Slávy dcéra
 
-## Gramatika
+## Gramatika - [[16A#Gramatika]]
 
 * Norma a kodifikácia, kodifikačné príručky
 * Pravopisné znaky Antona Bernoláka a Ľudovíta Štúra
@@ -192,139 +202,139 @@
 
 ---
 # 17
-## Literatúra
+## Literatúra - [[17A#Literatúra]]
 
 * Andrej Sládkovič: Marína
 * Porovnanie tvorby Sládkoviča a Kollára
 
-## Gramatika
+## Gramatika - [[17A#Gramatika]]
 
 ---
 # 18
-## Gramatika
+## Gramatika - [[18A#Gramatika]]
 
 * Pravidlo o rytmickom krátení
 
-## Literatúra
+## Literatúra - [[18A#Literatúra]]
 
 * Lyrika
 * Životopis a lyrická tvorba P. O. Hviezdoslava
 * Sonet
 
-## Gramatika
+## Gramatika - [[18A#Gramatika]]
 
 * Rečnícky štýl
 
 ---
 # 19
-## Literatúra
+## Literatúra - [[19A#Literatúra]]
 
 * Bajka, báj
 
-## Gramatika
+## Gramatika - [[19A#Gramatika]]
 
 * Informačný slohový postup
 
 ---
 # 20
-## Literatúra
+## Literatúra - [[20A#Literatúra]]
 
 * Ľudová slovesnosť a umelá literatúra
 * Balada, baladická tvorba Jána Bottu
 
-## Gramatika
+## Gramatika - [[20A#Gramatika]]
 
 * Interview, diskusný príspevok, príležitostný prejav
 
 ---
 # 21
-## Literatúra
+## Literatúra - [[21A#Literatúra]]
 
 * Slovenská literárna moderna - symbolizmus
 * Ivan Krasko: básnická tvorba
 
-## Gramatika
+## Gramatika - [[21A#Gramatika]]
 
 * Súvetie
 
 ---
 # 22
-## Literatúra
+## Literatúra - [[22A#Literatúra]]
 
 * Dráma
 * W. Shakespeare: Hamlet, Romeo a Júlia
 
-## Gramatika
+## Gramatika - [[22A#Gramatika]]
 
 * Prozodické vlastnosti reči
 
 ---
 # 23
-## Literatúra
+## Literatúra - [[23A#Literatúra]]
 
 * Komická dráma
 * Humor, irónia, satira, paródia, anekdota, čierny humor, politická satira
 * Ján Palárik: Zmierenie alebo Dobrodružstvo pri obžinkoch
 
-## Gramatika
+## Gramatika - [[23A#Gramatika]]
 
 * Jednočlenná a dvojčlenná veta
 * Odsek a kapitola
 
 ---
 # 24
-## Literatúra
+## Literatúra - [[24A#Literatúra]]
 
 * Porovnanie romantizmu a realizmu
 * H. de Balzac: Ľudská komédia, Otec Goriot
 
-## Gramatika
+## Gramatika - [[24A#Gramatika]]
 
 * Opis, charakteristika
 
 ---
 # 25
-## Literatúra
+## Literatúra - [[25A#Literatúra]]
 
 * Životopis Martina Kukučína
 * Martin Kukučín: Dom v stráni
 
-## Gramatika
+## Gramatika - [[25A#Gramatika]]
 
 * Výkladový slohový postup - úvaha
 
 ---
 # 26
-## Literatúra
+## Literatúra - [[26A#Literatúra]]
 
 * Stratená generácia
 * E. M. Remarque: Na západe nič nové
 
-## Gramatika
+## Gramatika - [[26A#Gramatika]]
 
 * Osnova, koncept, konspekt, čistopis, informácia, marginálie, resumé
 
 ---
 # 27
-## Literatúra
+## Literatúra - [[27A#Literatúra]]
 
 * Novela a poviedka
 * B. S. Timrava : Bez hrdosti
 * Janko Jesenský : Elenka, Slovo lásky
 
-## Gramatika
+## Gramatika - [[27A#Gramatika]]
 
 * Informačný slohový postup
 * Bulletin, reklama, reklamácia, parte, kondolenčná listina, správa, oznámenie, inzerát
 
 ---
 # 28
-## Literatúra
+## Literatúra - [[28A#Literatúra]]
 
 * Vitalizmus, katolícka moderna
 * Životopis a tvorba Jána Smreka
 
-## Gramatika
+## Gramatika - [[28A#Gramatika]]
 
 * Fonéma, graféma
 * Diakritické a interpunkčné znamienka
@@ -333,25 +343,25 @@
 
 ---
 # 29
-## Literatúra
+## Literatúra - [[29A#Literatúra]]
 
 * Protifašistická literatúra
 * Ivan Bukovčan: Kým kohút nezaspieva
 
-## Gramatika
+## Gramatika - [[29A#Gramatika]]
 
 * Rozprávanie, rozprávač
 * Priama reč
 
 ---
 # 30
-## Literatúra
+## Literatúra - [[30A#Literatúra]]
 
 * Literárne druhy
 * Lyrizovaná próza - próza naturizmu
 * Dobroslav Chrobák: Drak sa vracia
 
-## Gramatika
+## Gramatika - [[30A#Gramatika]]
 
 * Indoeurópske jazyky
 * Slovanské jazyky

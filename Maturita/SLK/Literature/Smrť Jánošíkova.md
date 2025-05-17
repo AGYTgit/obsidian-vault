@@ -1,1 +1,0 @@
-[Dej](https://youtu.be/MPloIjNjOB0?t=213)
