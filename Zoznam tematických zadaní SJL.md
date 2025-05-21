@@ -127,10 +127,6 @@
 
 * Romantická literatúra, znaky a predstavitelia svetovej romantickej literatúry a ich diela
 * Victor Hugo: Chrám Matky Božej v Paríži
-* Lexikológia, slovo, slovná zásoba
-* Lexikálny a gramatický význam slova
-* Slovníky
-* Členenie slovnej zásoby
 
 ## Gramatika - [[11A#Gramatika]]
 
@@ -207,13 +203,14 @@
 * Andrej Sládkovič: Marína
 * Porovnanie tvorby Sládkoviča a Kollára
 
+
 ## Gramatika - [[17A#Gramatika]]
 
----
-# 18
-## Gramatika - [[18A#Gramatika]]
-
 * Pravidlo o rytmickom krátení
+
+---
+
+# 18
 
 ## Literatúra - [[18A#Literatúra]]
 
