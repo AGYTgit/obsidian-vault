@@ -29,7 +29,7 @@
 # 3
 ## Literatúra - [[3A#Literatúra]]
 
-* Andrej Sládkovič: Detvan
+* Andrej Sládkovič: <span style="color: red">[[Detvan]]</span>
 * Janko Kráľ - Zakliata panna vo Váhu a divný Janko
 
 ## Gramatika - [[3A#Gramatika]]
@@ -62,7 +62,7 @@
 ## Literatúra - [[6A#Literatúra]]
 
 * Moderna a avantgarda v slovenskej medzivojnovej literatúre
-* Margita Figuli: Tri gaštanové kone
+* Margita Figuli: <span style="color: red">Tri gaštanové kone</span> (naturizmus)
 * Znaky prózy literatúry naturizmu
 
 ## Gramatika - [[6A#Gramatika]]
@@ -75,7 +75,7 @@
 ## Literatúra - [[7A#Literatúra]]
 
 * Socialistický realizmus v slovenskej literatúre
-* Alfonz Bednár: Koliska
+* Alfonz Bednár: <span style="color: yellow">Koliska</span>
 
 ## Gramatika - [[7A#Gramatika]]
 
@@ -87,7 +87,7 @@
 # 8
 ## Literatúra - [[8A#Literatúra]]
 
-* P. O. Hviezdoslav: Hájnikova žena, Ežo Vlkolinský
+* P. O. Hviezdoslav: <span style="color: yellow">Hájnikova žena</span>, <span style="color: yellow">Ežo Vlkolinský</span>
 
 ## Gramatika - [[8A#Gramatika]]
 
@@ -126,7 +126,7 @@
 ## Literatúra - [[11A#Literatúra]]
 
 * Romantická literatúra, znaky a predstavitelia svetovej romantickej literatúry a ich diela
-* Victor Hugo: Chrám Matky Božej v Paríži
+* Victor Hugo: <span style="color: yellow">Chrám Matky Božej v Paríži</span>
 
 ## Gramatika - [[11A#Gramatika]]
 
@@ -139,7 +139,7 @@
 # 12
 ## Literatúra - [[12A#Literatúra]]
 
-* Jozef Cíger Hronský: Jozef Mak
+* Jozef Cíger Hronský: <span style="color: red">Jozef Mak</span>
 
 ## Gramatika - [[12A#Gramatika]]
 
@@ -150,7 +150,7 @@
 # 13
 ## Literatúra - [[13A#Literatúra]]
 
-* J. D. Salinger: Kto chytá v žite
+* J. D. Salinger: <span style="color: red">Kto chytá v žite</span>
 
 ## Gramatika - [[13A#Gramatika]]
 
@@ -161,7 +161,7 @@
 ## Literatúra - [[14A#Literatúra]]
 
 * Voľný verš, rytmicko-syntaktický paralelizmus, populárna pieseň
-* Životopis a tvorba Milana Rúfusa a Miroslava Válka
+* <span style="color: red">Životopis a tvorba Milana Rúfusa a Miroslava Válka</span>
 
 ## Gramatika - [[14A#Gramatika]]
 
@@ -175,7 +175,7 @@
 ## Literatúra - [[15A#Literatúra]]
 
 * Kompozičné postupy v epickej literatúre
-* Ladislav Mňačko: Ako chutí moc
+* Ladislav Mňačko: <span style="color: red">Ako chutí moc</span>
 
 ## Gramatika - [[15A#Gramatika]]
 

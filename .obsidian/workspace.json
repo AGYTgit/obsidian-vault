@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "6fb09fe73d9cde90",
+    "id": "27b0d94a53aaef5a",
     "type": "split",
     "children": [
       {
-        "id": "5440f20622a6229d",
+        "id": "210107c7de5cb4bd",
         "type": "tabs",
         "children": [
           {
-            "id": "e6d8bcdbd73d76d9",
+            "id": "ec6eb9eeebf690d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zoznam tematických zadaní SJL.md",
+                "file": "Detvan.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Zoznam tematických zadaní SJL"
-            }
-          },
-          {
-            "id": "044660dc195657f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoznam tematických zadaní SJL.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Zoznam tematických zadaní SJL"
+              "title": "Detvan"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c3279397973df0e9",
+    "id": "41c912c58817e6e0",
     "type": "split",
     "children": [
       {
-        "id": "05ee0f47f88a7233",
+        "id": "0867f1508b21999a",
         "type": "tabs",
         "children": [
           {
-            "id": "ff49caba0f60e03c",
+            "id": "3696bff7bbb1a059",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +48,7 @@
             }
           },
           {
-            "id": "8b2b4445043426ef",
+            "id": "8e08b41ef0b86ef1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "f18966013c073e90",
+            "id": "1e21b00ec00cc110",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,29 +81,48 @@
     "width": 300
   },
   "right": {
-    "id": "2834e16841b59a17",
+    "id": "05576cbadf99eafb",
     "type": "split",
     "children": [
       {
-        "id": "0b331334e421a087",
+        "id": "dbe06cb20ad68f43",
         "type": "tabs",
         "children": [
           {
-            "id": "0b902a9eac67fa9f",
+            "id": "e920a630a7f6d465",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Detvan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Detvan"
+            }
+          },
+          {
+            "id": "4579dc6e0ff82f84",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maturita/SLK/Questions/Questions/1.md",
+                "file": "Detvan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1"
+              "title": "Outgoing links from Detvan"
             }
           },
           {
-            "id": "e20e0a988e136c85",
+            "id": "5d99e73ded3f6fa8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,37 +137,18 @@
             }
           },
           {
-            "id": "f5ef1bf9ed142902",
+            "id": "f73aeecf144262b0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-vault/Maturita/SLK/Romantizmus.md",
+                "file": "Detvan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Romantizmus"
-            }
-          },
-          {
-            "id": "6f47427a50a31e70",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Maturita/SLK/Questions/Questions/1.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 1"
+              "title": "Outline of Detvan"
             }
           }
         ]
@@ -183,45 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "044660dc195657f9",
+  "active": "ec6eb9eeebf690d7",
   "lastOpenFiles": [
-    "Maturita/SLK/Questions/Answers/30A.md",
     "Zoznam tematických zadaní SJL.md",
-    "Maturita/SLK/Questions/Answers/15A.md",
-    "Maturita/SLK/Questions/Answers/11A.md",
-    "Maturita/SLK/Questions/Answers/9A.md",
-    "Maturita/SLK/Questions/Answers/8A.md",
-    "Untitled.md",
-    "other docs/~$S_IST_2024_2025-klasika-1.docx",
-    "other docs/~$turitné-zadania-1-30.docx",
-    "Maturita/SLK/Most occurring topics.md",
-    "Maturita/SLK/Study Progress.md",
-    "Maturita/SLK/Timeline.md",
-    "Maturita/SLK/Grammar/Vetné členy.md",
-    "Maturita/SLK/Questions/Answers/1A.md",
-    "Maturita/SLK/Questions/Answers/3A.md",
-    "Maturita/SLK/Questions/Answers/2A.md",
-    "Vsetky-maturitne-temy-SJL_.pdf",
-    "Maturita/SLK/Vsetky-maturitne-temy-SJL_.pdf",
-    "Maturita/SLK/Questions/Answers/4A.md",
-    "Maturita/SLK/Untitled/Slovesá.md",
-    "Maturita/SLK/Untitled/Jazykovedy.md",
-    "Maturita/SLK/Untitled/Číslovky.md",
-    "A1.md",
-    "Maturita/SLK/Questions/List.md",
-    "Maturita/SLK/Questions/Maturitne-zadania-1-30.md",
-    "Maturita/SLK/source backup.md",
-    "Maturita/Professional/Answers",
-    "Maturita/Professional/Answers/p9.md",
-    "Maturita/Professional",
-    "other docs/Maturitné-zadania-1-30 1.docx",
-    "other docs/Vsetky-maturitne-temy-SJL_.pdf",
-    "p2-5-6.md",
-    "p5-6.md",
-    "p4-3.md",
-    "Maturita/SLK/Untitled",
-    "other docs/eng.pdf",
-    "vertopal_94d727a0378e4d5f8a6ca850fbff38d9/media/image1.png",
-    "Untitled.canvas"
+    "Detvan.md",
+    "Maturita/SLK/Questions/Answers/1A.md"
   ]
 }
