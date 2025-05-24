@@ -30,7 +30,7 @@
 ## Literatúra - [[3A#Literatúra]]
 
 * [[Andrej Sládkovič#Detvan]]
-* [[Janko Kráľ#Zakliata panna vo Váhu a divný Janko]] <span style="color: red">!!!</span>
+* [[Janko Kráľ#Zakliata panna vo Váhu a divný Janko]]
 
 ## Gramatika - [[3A#Gramatika]]
 
@@ -100,7 +100,7 @@
 ## Literatúra - [[9A#Literatúra]]
 
 * Krátka epická próza, rozprávač, literárna postava
-* [[Jozef Gregor Tajovský#Maco Mlieč]] <span style="color: red"> - resume here</span>
+* [[Jozef Gregor Tajovský#Maco Mlieč]]
 * [[Martin Kukučín#Keď báčik z Chochoľova umrie]]
 
 ## Gramatika - [[9A#Gramatika]]
@@ -151,7 +151,7 @@
 # 13
 ## Literatúra - [[13A#Literatúra]]
 
-* [[Jerome David Salinger#Kto chytá v žite]]
+* [[Jerome David Salinger#Kto chytá v žite]] <span style="color: yellow">!!!</span>
 
 ## Gramatika - [[13A#Gramatika]]
 
@@ -176,7 +176,7 @@
 ## Literatúra - [[15A#Literatúra]]
 
 * Kompozičné postupy v epickej literatúre
-* [[Ladislav Mňačko#Ako chutí moc]]
+* [[Ladislav Mňačko#Ako chutí moc]] <span style="color: red">!!!</span>
 
 ## Gramatika - [[15A#Gramatika]]
 
@@ -189,7 +189,7 @@
 ## Literatúra - [[16A#Literatúra]]
 
 * Idea slovanskej vzájomnosti
-* [[Ján Kollár#Slávy dcéra]]
+* [[Ján Kollár#Slávy dcéra]] <span style="color: red">!!!</span>
 
 ## Gramatika - [[16A#Gramatika]]
 
@@ -273,7 +273,7 @@
 
 * Komická dráma
 * Humor, irónia, satira, paródia, anekdota, čierny humor, politická satira
-* [[Ján Palárik#Zmierenie alebo Dobrodružstvo pri obžinkoch]]
+* [[Ján Palárik#Zmierenie alebo Dobrodružstvo pri obžinkoch]] <span style="color: red">!!!</span>
 
 ## Gramatika - [[23A#Gramatika]]
 
@@ -285,8 +285,7 @@
 ## Literatúra - [[24A#Literatúra]]
 
 * Porovnanie romantizmu a realizmu
-* [[Honoré de Balzac#Ľudská komédia]] <span style="color: red">missing</span>
-* [[Honoré de Balzac#Otec Goriot]] <span style="color: red">missing plot</span>
+* [[Honoré de Balzac#Ľudská komédia - Otec Goriot]] <span style="color: red">missing plot</span>
 
 ## Gramatika - [[24A#Gramatika]]
 

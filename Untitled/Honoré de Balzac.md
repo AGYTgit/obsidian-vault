@@ -1,4 +1,3 @@
-## Honoré de Balzac
 
 * **Meno:** Honoré de Balzac
 * **Život:** 1799 – 1850
@@ -9,7 +8,7 @@
 
 ---
 
-## Otec Goriot
+## Ľudská komédia - Otec Goriot
 
 ### Charakteristika diela
 

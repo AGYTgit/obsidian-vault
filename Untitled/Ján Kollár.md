@@ -30,7 +30,7 @@
 
 ---
 
-### Kompozícia a dej (Spevy)
+### Kompozícia a dej
 
 * **Předspěv:**
     * **Charakteristika:** Klasicistický útvar (žalospev) napísaný časomerným veršom (striedanie krátkej slabiky s dlhou). Dvojveršia sa skladajú z hexametra (6 stôp) a pentametra (5 stôp) a vytvárajú tzv. elegický distichon.
