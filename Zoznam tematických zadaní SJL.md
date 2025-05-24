@@ -30,7 +30,7 @@
 ## Literatúra - [[3A#Literatúra]]
 
 * [[Andrej Sládkovič#Detvan]]
-* Janko Kráľ - Zakliata panna vo Váhu a divný Janko
+* [[Janko Kráľ#Zakliata panna vo Váhu a divný Janko]] <span style="color: red">!!!</span>
 
 ## Gramatika - [[3A#Gramatika]]
 
@@ -87,7 +87,8 @@
 # 8
 ## Literatúra - [[8A#Literatúra]]
 
-* P. O. Hviezdoslav: <span style="color: yellow">Hájnikova žena</span>, <span style="color: yellow">Ežo Vlkolinský</span>
+* [[Pavol Országh Hviezdoslav#Ežo Vlkolinský]]
+* [[Pavol Országh Hviezdoslav#Hájnikova žena]]
 
 ## Gramatika - [[8A#Gramatika]]
 
@@ -99,8 +100,8 @@
 ## Literatúra - [[9A#Literatúra]]
 
 * Krátka epická próza, rozprávač, literárna postava
-* J. G. Tajovský: Maco Mlieč
-* M. Kukučín: Keď báčik z Chochoľova umrie
+* [[Jozef Gregor Tajovský#Maco Mlieč]] <span style="color: red"> - resume here</span>
+* [[Martin Kukučín#Keď báčik z Chochoľova umrie]]
 
 ## Gramatika - [[9A#Gramatika]]
 
@@ -112,7 +113,7 @@
 ## Literatúra - [[10A#Literatúra]]
 
 * Epická próza; epický čas, téma, kompozičný postup
-* B. S. Timrava: Ťapákovci
+* [[Božena Slančíková-Timrava#Ťapákovci]]
 
 ## Gramatika - [[10A#Gramatika]]
 
@@ -126,7 +127,7 @@
 ## Literatúra - [[11A#Literatúra]]
 
 * Romantická literatúra, znaky a predstavitelia svetovej romantickej literatúry a ich diela
-* Victor Hugo: <span style="color: yellow">Chrám Matky Božej v Paríži</span>
+* [[Victor Hugo#Chrám Matky Božej v Paríži]]
 
 ## Gramatika - [[11A#Gramatika]]
 
@@ -139,7 +140,7 @@
 # 12
 ## Literatúra - [[12A#Literatúra]]
 
-* Jozef Cíger Hronský: <span style="color: red">Jozef Mak</span>
+* [[Jozef Cíger Hronský#Jozef Mak]]
 
 ## Gramatika - [[12A#Gramatika]]
 
@@ -150,7 +151,7 @@
 # 13
 ## Literatúra - [[13A#Literatúra]]
 
-* J. D. Salinger: <span style="color: red">Kto chytá v žite</span>
+* [[Jerome David Salinger#Kto chytá v žite]]
 
 ## Gramatika - [[13A#Gramatika]]
 
@@ -161,7 +162,7 @@
 ## Literatúra - [[14A#Literatúra]]
 
 * Voľný verš, rytmicko-syntaktický paralelizmus, populárna pieseň
-* <span style="color: red">Životopis a tvorba Milana Rúfusa a Miroslava Válka</span>
+* Životopis a tvorba [[Milan Rúfus]] a [[Miroslav Válek]] <span style="color: red">!!!</span>
 
 ## Gramatika - [[14A#Gramatika]]
 
@@ -175,7 +176,7 @@
 ## Literatúra - [[15A#Literatúra]]
 
 * Kompozičné postupy v epickej literatúre
-* Ladislav Mňačko: <span style="color: red">Ako chutí moc</span>
+* [[Ladislav Mňačko#Ako chutí moc]]
 
 ## Gramatika - [[15A#Gramatika]]
 
@@ -188,7 +189,7 @@
 ## Literatúra - [[16A#Literatúra]]
 
 * Idea slovanskej vzájomnosti
-* Ján Kollár: Slávy dcéra
+* [[Ján Kollár#Slávy dcéra]]
 
 ## Gramatika - [[16A#Gramatika]]
 
@@ -200,8 +201,8 @@
 # 17
 ## Literatúra - [[17A#Literatúra]]
 
-* Andrej Sládkovič: Marína
-* Porovnanie tvorby Sládkoviča a Kollára
+* [[Andrej Sládkovič#Marína]]
+* Porovnanie tvorby [[Andrej Sládkovič]] a [[Ján Kollár]] <span style="color: red">!!!</span>
 
 
 ## Gramatika - [[17A#Gramatika]]
@@ -215,7 +216,7 @@
 ## Literatúra - [[18A#Literatúra]]
 
 * Lyrika
-* Životopis a lyrická tvorba P. O. Hviezdoslava
+* Životopis a lyrická tvorba [[Pavol Országh Hviezdoslav]] <span style="color: red">!!!</span>
 * Sonet
 
 ## Gramatika - [[18A#Gramatika]]
@@ -237,7 +238,7 @@
 ## Literatúra - [[20A#Literatúra]]
 
 * Ľudová slovesnosť a umelá literatúra
-* Balada, baladická tvorba Jána Bottu
+* Balada, baladická tvorba [[Ján Botto]] <span style="color: red">!!!</span>
 
 ## Gramatika - [[20A#Gramatika]]
 
@@ -248,7 +249,7 @@
 ## Literatúra - [[21A#Literatúra]]
 
 * Slovenská literárna moderna - symbolizmus
-* Ivan Krasko: básnická tvorba
+* [[Ivan Krasko]]: básnická tvorba <span style="color: red">missing</span>
 
 ## Gramatika - [[21A#Gramatika]]
 
@@ -259,7 +260,8 @@
 ## Literatúra - [[22A#Literatúra]]
 
 * Dráma
-* W. Shakespeare: Hamlet, Romeo a Júlia
+* [[William Shakespeare#Hamlet]]
+* [[William Shakespeare#Rómeo a Júlia]]
 
 ## Gramatika - [[22A#Gramatika]]
 
@@ -271,7 +273,7 @@
 
 * Komická dráma
 * Humor, irónia, satira, paródia, anekdota, čierny humor, politická satira
-* Ján Palárik: Zmierenie alebo Dobrodružstvo pri obžinkoch
+* [[Ján Palárik#Zmierenie alebo Dobrodružstvo pri obžinkoch]]
 
 ## Gramatika - [[23A#Gramatika]]
 
@@ -283,7 +285,8 @@
 ## Literatúra - [[24A#Literatúra]]
 
 * Porovnanie romantizmu a realizmu
-* H. de Balzac: Ľudská komédia, Otec Goriot
+* [[Honoré de Balzac#Ľudská komédia]] <span style="color: red">missing</span>
+* [[Honoré de Balzac#Otec Goriot]] <span style="color: red">missing plot</span>
 
 ## Gramatika - [[24A#Gramatika]]
 
@@ -293,8 +296,8 @@
 # 25
 ## Literatúra - [[25A#Literatúra]]
 
-* Životopis Martina Kukučína
-* Martin Kukučín: Dom v stráni
+* Životopis [[Martin Kukučín]] <span style="color: red">!!!</span>
+* [[Martin Kukučín#Dom v stráni]]
 
 ## Gramatika - [[25A#Gramatika]]
 
@@ -305,7 +308,7 @@
 ## Literatúra - [[26A#Literatúra]]
 
 * Stratená generácia
-* E. M. Remarque: Na západe nič nové
+* [[Erich Maria Remarque#Na západe nič nové]]
 
 ## Gramatika - [[26A#Gramatika]]
 
@@ -316,8 +319,9 @@
 ## Literatúra - [[27A#Literatúra]]
 
 * Novela a poviedka
-* B. S. Timrava : Bez hrdosti
-* Janko Jesenský : Elenka, Slovo lásky
+* [[Božena Slančíková-Timrava#Bez hrdosti]]
+* [[Janko Jesenský#Elenka]]
+* [[Janko Jesenský#Slovo lásky]]
 
 ## Gramatika - [[27A#Gramatika]]
 
@@ -329,7 +333,7 @@
 ## Literatúra - [[28A#Literatúra]]
 
 * Vitalizmus, katolícka moderna
-* Životopis a tvorba Jána Smreka
+* Životopis a tvorba [[Ján Smrek]] <span style="color: red">missing</span>
 
 ## Gramatika - [[28A#Gramatika]]
 
@@ -343,7 +347,7 @@
 ## Literatúra - [[29A#Literatúra]]
 
 * Protifašistická literatúra
-* Ivan Bukovčan: Kým kohút nezaspieva
+* [[Ivan Bukovčan#Kým kohút nezaspieva]]
 
 ## Gramatika - [[29A#Gramatika]]
 
@@ -356,7 +360,7 @@
 
 * Literárne druhy
 * Lyrizovaná próza - próza naturizmu
-* Dobroslav Chrobák: Drak sa vracia
+* [[Dobroslav Chrobák#Drak sa vracia]]
 
 ## Gramatika - [[30A#Gramatika]]
 
