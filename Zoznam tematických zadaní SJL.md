@@ -5,7 +5,7 @@
 ## Literatúra - [[1A#Literatúra]]
 
 * Epická poézia, rytmus, metafora, prirovnanie, anafora, sylabický veršový systém
-* Tvorba Hugolína Gavloviča
+* Tvorba [[Hugolín Gavlovič]]
 
 ## Gramatika - [[1A#Gramatika]]
 
@@ -16,7 +16,7 @@
 # 2
 ## Literatúra - [[2A#Literatúra]]
 
-* Samo Chalupka: Mor ho!, Ján Botto: Smrť Jánošíkova, Karel Hynek Mácha: Máj
+* [[Samo Chalupka#Mor ho!]], [[Ján Botto#Smrť Jánošíkova]] , [[Karel Hynek Mácha#Máj]] 
 * Pojmy: nadpis, verš, strofa, spev
 
 ## Gramatika - [[2A#Gramatika]]
@@ -29,7 +29,7 @@
 # 3
 ## Literatúra - [[3A#Literatúra]]
 
-* Andrej Sládkovič: <span style="color: red">[[Detvan]]</span>
+* [[Andrej Sládkovič#Detvan]]
 * Janko Kráľ - Zakliata panna vo Váhu a divný Janko
 
 ## Gramatika - [[3A#Gramatika]]
@@ -51,7 +51,7 @@
 ## Literatúra - [[5A#Literatúra]]
 
 * Vznik a vývin drámy, kompozícia drámy, herec, režisér, dramaturg, inscenácia
-* Ivan Stodola: Bačova žena
+* [[Ivan Stodola#Bačova žena]]
 
 ## Gramatika - [[5A#Gramatika]]
 
@@ -62,7 +62,7 @@
 ## Literatúra - [[6A#Literatúra]]
 
 * Moderna a avantgarda v slovenskej medzivojnovej literatúre
-* Margita Figuli: <span style="color: red">Tri gaštanové kone</span> (naturizmus)
+* [[Margita Figuli#Tri gaštanové kone]] (naturizmus)
 * Znaky prózy literatúry naturizmu
 
 ## Gramatika - [[6A#Gramatika]]
@@ -75,7 +75,7 @@
 ## Literatúra - [[7A#Literatúra]]
 
 * Socialistický realizmus v slovenskej literatúre
-* Alfonz Bednár: <span style="color: yellow">Koliska</span>
+* [[Alfonz Bednár#Koliska]]
 
 ## Gramatika - [[7A#Gramatika]]
 

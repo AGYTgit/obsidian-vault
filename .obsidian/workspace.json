@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "210107c7de5cb4bd",
+        "id": "a8fd72c7a83edd62",
         "type": "tabs",
         "children": [
           {
-            "id": "ec6eb9eeebf690d7",
+            "id": "00f81d9b983ee1a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Detvan.md",
+                "file": "Zoznam tematických zadaní SJL.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Detvan"
+              "title": "Zoznam tematických zadaní SJL"
             }
           }
         ]
@@ -168,10 +168,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec6eb9eeebf690d7",
+  "active": "00f81d9b983ee1a2",
   "lastOpenFiles": [
+    "Alfonz Bednár.md",
     "Zoznam tematických zadaní SJL.md",
-    "Detvan.md",
-    "Maturita/SLK/Questions/Answers/1A.md"
+    "Karel Hynek Mácha.md",
+    "Margita Figuli.md",
+    "Ivan Stodola.md",
+    "Samo Chalupka.md",
+    "Ján Botto.md",
+    "Andrej Sládkovič.md",
+    "Untitled.md",
+    "Hugolín Gavlovič.md",
+    "Maturita/SLK/Timeline.md",
+    "Maturita/SLK/Questions/Answers/1A.md",
+    "other docs/~$turitné-zadania-1-30.docx",
+    "Maturita/SLK/Study Progress.md",
+    "Maturita/SLK/Questions/Answers/10A.md"
   ]
 }
