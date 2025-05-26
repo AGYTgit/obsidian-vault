@@ -11,14 +11,10 @@
             "id": "7e9b186f4a7fa76b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoznam tematických zadaní SJL.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Zoznam tematických zadaní SJL"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -170,8 +166,9 @@
   },
   "active": "7e9b186f4a7fa76b",
   "lastOpenFiles": [
-    "Untitled/Andrej Sládkovič.md",
     "Zoznam tematických zadaní SJL.md",
+    "Dobrodružstvo pri obžinkoch.md",
+    "Untitled/Andrej Sládkovič.md",
     "Untitled/Pavol Országh Hviezdoslav.md",
     "Untitled/Ivan Stodola.md",
     "Untitled/Božena Slančíková-Timrava.md",

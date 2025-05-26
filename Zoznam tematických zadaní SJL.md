@@ -176,7 +176,7 @@
 ## Literatúra - [[15A#Literatúra]]
 
 * Kompozičné postupy v epickej literatúre
-* [[Ladislav Mňačko#Ako chutí moc]] <span style="color: red">!!!</span>
+* [[Ladislav Mňačko#Ako chutí moc]] <span style="color: yellow">!!!</span>
 
 ## Gramatika - [[15A#Gramatika]]
 
