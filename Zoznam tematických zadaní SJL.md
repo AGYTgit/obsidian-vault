@@ -216,7 +216,7 @@
 ## Literatúra - [[18A#Literatúra]]
 
 * Lyrika
-* Životopis a lyrická tvorba [[Pavol Országh Hviezdoslav]] <span style="color: red">!!!</span>
+* Životopis a lyrická tvorba [[Pavol Országh Hviezdoslav]] (sonety, krvave sonety) <span style="color: red">!!!</span>
 * Sonet
 
 ## Gramatika - [[18A#Gramatika]]
@@ -238,7 +238,7 @@
 ## Literatúra - [[20A#Literatúra]]
 
 * Ľudová slovesnosť a umelá literatúra
-* Balada, baladická tvorba [[Ján Botto]] <span style="color: red">!!!</span>
+* Balada, baladická tvorba [[Ján Botto]] (zlta lalia, margita besna) <span style="color: red">!!!</span>
 
 ## Gramatika - [[20A#Gramatika]]
 
@@ -249,7 +249,7 @@
 ## Literatúra - [[21A#Literatúra]]
 
 * Slovenská literárna moderna - symbolizmus
-* [[Ivan Krasko]]: básnická tvorba <span style="color: red">missing</span>
+* [[Ivan Krasko]]: básnická tvorba (nox et solitudo, verse) <span style="color: red">missing</span>
 
 ## Gramatika - [[21A#Gramatika]]
 
