@@ -11,14 +11,10 @@
             "id": "7e9b186f4a7fa76b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zoznam tematických zadaní SJL.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Zoznam tematických zadaní SJL"
+              "title": "New tab"
             }
           }
         ]
@@ -168,10 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e9b186f4a7fa76b",
+  "active": "3696bff7bbb1a059",
   "lastOpenFiles": [
-    "Untitled/Milan Rúfus.md",
     "Zoznam tematických zadaní SJL.md",
+    "Untitled/Milan Rúfus.md",
     "Untitled/Miroslav Válek.md",
     "Untitled/Martin Kukučín.md",
     "Untitled/Pavol Országh Hviezdoslav.md",

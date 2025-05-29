@@ -1,7 +1,0 @@
-- **Sonet** je pevne viazaná básnická forma.
-- Má **14 veršov**, rozdelených do **4 strof**:
-  - 2 × štvorveršie (**kvartetá**)
-  - 2 × trojveršie (**tercetá**)
-- Typické **rýmové schémy**: ABBA ABBA CDC DCD
-- Často sa využíva na **vyjadrenie citov**, **úvah**, **prírodných obrazov**.
-- Pôvod: **Taliansko**, rozšíril ho **Francesco Petrarca**.

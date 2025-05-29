@@ -1,1 +1,0 @@
-- Striedanie *hexametra* (6 stôp) a *pentametra* (5 stôp).
